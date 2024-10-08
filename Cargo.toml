@@ -1,11 +1,9 @@
 [package]
-name = "x-mid"
+name = "xid"
 version = "3.0.0"
 edition = "2021"
-authors = ["doroved", "thanhtaivtt"]
-description = "Creating a Machine ID hash for MacOS/Windows/Linux"
+description = "Creating a Machine ID hash for MacOS/Windows/Linux extends from doroved/mid"
 readme = "README.md"
-repository = "https://github.com/doroved/mid"
 license = "MIT OR Apache-2.0"
 keywords = ["hwid", "machineid", "hardware-id", "machineuid", "uuid"]
 categories = ["authentication", "config", "accessibility"]
