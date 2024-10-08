@@ -1,5 +1,5 @@
 [package]
-name = "xid"
+name = "xmid"
 version = "3.0.0"
 edition = "2021"
 description = "Creating a Machine ID hash for MacOS/Windows/Linux extends from doroved/mid"
